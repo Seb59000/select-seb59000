@@ -15,7 +15,7 @@ npm install --save select-seb59000
 ```jsx
 import React, { Component } from 'react'
 
-import Dropdown from 'packtest64'
+import Dropdown from 'select-seb59000'
 
 class Example extends Component {
   const values = [0, 1, 2, 3, 4]
