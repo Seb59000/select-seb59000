@@ -1,6 +1,6 @@
 {
   "name": "select-seb59000",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple select",
   "author": "Seb59000",
   "license": "MIT",
@@ -11,6 +11,11 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "choices",
+    "select",
+    "onChange"
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",

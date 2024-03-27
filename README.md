@@ -6,11 +6,14 @@
 
 ## Install
 
+in your project directory open your cmd and type this : 
+
 ```bash
 npm install --save select-seb59000
 ```
 
 ## Usage
+in your react project to import the component, put those lines of code :
 
 ```jsx
 import React, { Component } from 'react'
@@ -45,3 +48,5 @@ onChange - a function to run onChange()
 
 MIT © [Seb59000](https://github.com/Seb59000)
 
+recommended IDE : Visual Studio Code
+node version: >=10
